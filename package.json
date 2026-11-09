@@ -1,0 +1,11 @@
+{
+  "name": "sirep-front-wrapper",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd app && bun run dev",
+    "build": "cd app && bun run build",
+    "start": "cd app && bun run start",
+    "test": "cd app && bun run test"
+  }
+}
